@@ -206,6 +206,10 @@ h2 {
 }
 
 /* Features */
+#features {
+    background: transparent;
+}
+
 #features .feature {
     background: rgba(0, 51, 102, 0.8);
     padding: 15px;
