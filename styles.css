@@ -206,10 +206,6 @@ h2 {
 }
 
 /* Features */
-#features {
-    background: url('https://i.imgur.com/6Rk0YQN.png') no-repeat center center/cover;
-}
-
 #features .feature {
     background: rgba(0, 51, 102, 0.8);
     padding: 15px;
